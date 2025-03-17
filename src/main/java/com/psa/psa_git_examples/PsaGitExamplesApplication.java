@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PsaGitExamplesApplication {
 
 	public static void main(String[] args) {
+		char x = 'a';
 		SpringApplication.run(PsaGitExamplesApplication.class, args);
 	}
 
