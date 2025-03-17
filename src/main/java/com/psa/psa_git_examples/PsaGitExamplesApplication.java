@@ -7,12 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PsaGitExamplesApplication {
 
 	public static void main(String[] args) {
-
 		double z=10.3;
 		boolean isPresent = false;
 		String name="mike";
 		int x=100;
 		int y = 10;
+    char x = 'a';
 		SpringApplication.run(PsaGitExamplesApplication.class, args);
 	}
 
