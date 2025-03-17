@@ -12,6 +12,7 @@ public class PsaGitExamplesApplication {
 		boolean isPresent = false;
 		String name="mike";
 		int x=100;
+		int y = 10;
 		SpringApplication.run(PsaGitExamplesApplication.class, args);
 	}
 
